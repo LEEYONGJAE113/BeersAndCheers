@@ -49096,38 +49096,38 @@ MonoBehaviour:
   - name: NormalBGM
     clip: {fileID: 8300000, guid: 2c91561020f13c74a9264de9e423afd6, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: DungeonBGM
     clip: {fileID: 8300000, guid: 728e46f7bf199e34782f6ab3a64453bc, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: WorkingBGM
     clip: {fileID: 8300000, guid: f2723fe25dcc8364696be945f1f01894, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   missionSounds:
   - name: SuccessSFX
     clip: {fileID: 8300000, guid: 036d9a2a7056fd74696922cdf2452c8e, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: FailureSFX
     clip: {fileID: 8300000, guid: 0bf487d953ed0f14e9d5fc15c6ff7b84, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: BushSFX
     clip: {fileID: 8300000, guid: ff873ee6e856ef54882df699954ad402, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: RockSFX
     clip: {fileID: 8300000, guid: ad4d8dc0a124e6842b9cfa37dfb16cf0, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: TreeSFX
     clip: {fileID: 8300000, guid: feee546a9b9ad3c4885af9d28830288c, type: 3}
@@ -49142,180 +49142,180 @@ MonoBehaviour:
   - name: FishTool1SFX
     clip: {fileID: 8300000, guid: 9c38929dfb5ea614985f47665a1c9b73, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: FishTool2SFX
     clip: {fileID: 8300000, guid: 76310077b7ab6964aa7de86ee9140179, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: FishHitSFX
     clip: {fileID: 8300000, guid: 20af51468975107488ea180bd6517425, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: FishingSFX
     clip: {fileID: 8300000, guid: 6d5cd913d96bcd34ea20a8f915f86da4, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: BoilingSFX
     clip: {fileID: 8300000, guid: a308df23d9fef8c41a4e0b64a6697338, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: CuttingSFX
     clip: {fileID: 8300000, guid: 2e1320f75e2ecd542b15a3b9492a6e4c, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: BeerSFX
     clip: {fileID: 8300000, guid: a11b2ba756f9ba4449ab0b1dc0d1846c, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: WashingSFX
     clip: {fileID: 8300000, guid: 57eaa1dc19c817645b02fe3fda68cda5, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: DishSFX
     clip: {fileID: 8300000, guid: 81a2566fd2ba69448a2246c8e8b9ce02, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: WaterSFX
     clip: {fileID: 8300000, guid: c3d85c8b83fc3d446a0df2bfc8d91280, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: WoodSFX
     clip: {fileID: 8300000, guid: 555def61dff9c9642b7800afe880ff9e, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: CowSFX
     clip: {fileID: 8300000, guid: cd9338415d814ba44aeea16d968f2bba, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: ChickenSFX
     clip: {fileID: 8300000, guid: 3571b788f80102a40b6f0a4488538b11, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: WoodBoxSFX
     clip: {fileID: 8300000, guid: 4e314b1416586cb4f8af7ec8b6b3dfab, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: StoreSFX
     clip: {fileID: 8300000, guid: 19c8c46d87b6b744087f9512a3077ddb, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: MoneySFX
     clip: {fileID: 8300000, guid: a13eb4e1d5f0c0843a35260c2ede85c9, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: HorseRidingSFX
     clip: {fileID: 8300000, guid: f8118fdcede936e46b27225ce2b1a786, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: HorseRunSFX
     clip: {fileID: 8300000, guid: a9b069ed83dc207488dcc89686b6f3a4, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   barSounds:
   - name: DoorOpen
     clip: {fileID: 8300000, guid: 731649530b524894dba51094e4fc6c09, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: DoorClose
     clip: {fileID: 8300000, guid: 1808cf523770aee499c921034f05ffbc, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: CookingPlace
     clip: {fileID: 8300000, guid: 5bb19eef551653d47abd32927d5452d8, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: StoragePlace
     clip: {fileID: 8300000, guid: c63d70920d962314db7dc6d5c99e53a7, type: 3}
     loop: 1
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: FermentSFX
     clip: {fileID: 8300000, guid: 1c43f39da278db548b831582b754656b, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: CustomerReaction
     clip: {fileID: 8300000, guid: 943d8cbde7b4a9b4eae5816f6b86af7b, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   monsterSounds:
   - name: GolemWalk
     clip: {fileID: 8300000, guid: a125abb076a53194db7640ee5f442953, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: GolemDie
     clip: {fileID: 8300000, guid: 6dc7930333efba04aa4d88b67b6cb9e2, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: GolemHit
     clip: {fileID: 8300000, guid: 3ffaf8cd81116df4fbf3fee32833a8f0, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: GolemBreath
     clip: {fileID: 8300000, guid: 3dae0eb7ba6bf9242abbfe1878f90406, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: SkeletonWalk
     clip: {fileID: 8300000, guid: 788c0d4322458f242aeb1df4c4810921, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: SkeletonDie
     clip: {fileID: 8300000, guid: 7a9d54556ab2ff0439c6eb278fcd0c40, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: SkeletonHit
     clip: {fileID: 8300000, guid: 43d5b63446e01cf46be29b9c2babb728, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   - name: ThiefHit
     clip: {fileID: 8300000, guid: 129a5644e7c9d1a4f930f470b0df8c66, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 1
   playerSounds:
   - name: Soilwalk
     clip: {fileID: 8300000, guid: 8dfdb135479a4f544b0497392cd026f5, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: Barwalk
     clip: {fileID: 8300000, guid: 2178c1f8ffe10494bbf21c6de1992b0c, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   - name: Jump
     clip: {fileID: 8300000, guid: d25de2ead426b47429c20fd77573adbe, type: 3}
     loop: 0
-    volume: 0.1
+    volume: 0.3
     is3D: 0
   poolSize: 10
 --- !u!4 &521717658
@@ -99050,7 +99050,7 @@ MonoBehaviour:
   - {fileID: 2144936862}
   - {fileID: 1659778506}
   SelectItem: {fileID: 0}
-  cooking: {fileID: 0}
+  cooking: {fileID: 1267566582}
   cookingMinigame: {fileID: 836958758}
   fermentingUI: {fileID: 5728205256667205148}
   fermentingUIs:
@@ -119799,8 +119799,8 @@ MonoBehaviour:
   dayText: {fileID: 208540835}
   currentDay: 1
   timeText: {fileID: 1792732813}
-  sleepTime: 600
-  nightTime: 300
+  sleepTime: 120
+  nightTime: 10
   Timer: 0
 --- !u!1 &1530377035
 GameObject:
@@ -166856,10 +166856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: {fileID: 2075677240}
-  startItems:
-  - inventoryName: Hotbar
-    itemName: TomatoSeed
-    count: 10
+  startItems: []
 --- !u!114 &2075677242 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2573546407216499730, guid: 54525128344f24940a9b8ef9b5896cf0, type: 3}
@@ -182844,8 +182841,8 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4942862970140413290}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: -0.00757}
+  m_LocalRotation: {x: 0.0000014007092, y: -0.9821806, z: 0.0000011622906, w: -0.18793994}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0183}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -182853,10 +182850,10 @@ RectTransform:
   - {fileID: 1059429185680981329}
   - {fileID: 551807926897893481}
   m_Father: {fileID: 7313417528375068265}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 158.335, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0.0098}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &3266400153800515549
